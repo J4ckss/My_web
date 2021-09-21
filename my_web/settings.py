@@ -54,7 +54,7 @@ ROOT_URLCONF = 'my_web.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': ["/home/jose/Escritorio/Proyectos_Django/my_web/my_web/Plantillas/"],
+        'DIRS': ["/home/jose/Escritorio/GitProyect/My_web/my_web/Plantillas/"],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
